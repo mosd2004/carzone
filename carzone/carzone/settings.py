@@ -26,7 +26,7 @@ SECRET_KEY = '_5u&r_ai^yd^*vutnj$y8l#)i)0(wj9%(2e)wnrcy6tid%b-5z'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['damp-sea-20105.herokuapp.com']
 LOGIN_REDIRECT_URL = 'dashboard'
 
 
